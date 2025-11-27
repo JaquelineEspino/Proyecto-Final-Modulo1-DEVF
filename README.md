@@ -6,7 +6,7 @@ Este repositorio contiene una página HTML cuyo tema principal es sobre un video
 psicológico llamado "OMORI". Se presenta la descripción del juego y de los personajes principales, asi como un pequeño formulario para gente que quiera unirse a la comunidad.
 
 ## Características
-Se utilizaron etiquetas HTML como <p>, <h1>, <h2>, <h3>, <nav>, <ul> entre otras para la estructuración de la página, que ayuda a que la información se vea organizada y sea fácil de interpretar.
+Se utilizaron etiquetas HTML como `<section>`, `<main>` `<p>`, `<h1>`, `<h2>`, `<h3>`, `<nav>`, `<footer>` entre otras para la estructuración de la página, que ayuda a que la información se vea organizada y sea fácil de interpretar.
 También se utilizó lenguaje CSS básico para poner color de fondo, color al título, cambiar la tipografía y modificar la imagen agregada.
 
 ## Como ver el sitio
